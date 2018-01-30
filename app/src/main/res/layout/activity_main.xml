@@ -32,7 +32,7 @@
         android:layout_alignParentEnd="true"
         android:textColor="@color/dark_orange"
         android:layout_marginEnd="16dp"
-        android:textSize="26sp"
+        android:textSize="36sp"
         android:fontFamily="cursive"
         android:textStyle="bold"
         android:text="@string/yeardog" />
